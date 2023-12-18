@@ -1,0 +1,251 @@
+[
+    {
+      "id": "school1",
+      "name": "School A",
+      "email": "schoolA@example.com",
+      "address": "123 Main Street",
+      "phone": "+1 (555) 123-4567",
+      "logo": "logo1.png",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user1",
+        "email": "user1@example.com",
+        "password": "password1",
+        "username": "user1",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user2",
+        "email": "user2@example.com",
+        "password": "password2",
+        "username": "user2",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school2",
+      "name": "School B",
+      "email": "schoolB@example.com",
+      "address": "456 Elm Street",
+      "phone": "+1 (555) 987-6543",
+      "logo": "logo2.png",
+      "lat": 40.7128,
+      "lng": -74.0060,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user3",
+        "email": "user3@example.com",
+        "password": "password3",
+        "username": "user3",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user4",
+        "email": "user4@example.com",
+        "password": "password4",
+        "username": "user4",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school3",
+      "name": "School C",
+      "email": "schoolC@example.com",
+      "address": "789 Oak Street",
+      "phone": "+1 (555) 333-4444",
+      "logo": "logo3.png",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user5",
+        "email": "user5@example.com",
+        "password": "password5",
+        "username": "user5",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user6",
+        "email": "user6@example.com",
+        "password": "password6",
+        "username": "user6",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school4",
+      "name": "School D",
+      "email": "schoolD@example.com",
+      "address": "101 Pine Street",
+      "phone": "+1 (555) 555-5555",
+      "logo": "logo4.png",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user7",
+        "email": "user7@example.com",
+        "password": "password7",
+        "username": "user7",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user8",
+        "email": "user8@example.com",
+        "password": "password8",
+        "username": "user8",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school5",
+      "name": "School E",
+      "email": "schoolE@example.com",
+      "address": "202 Maple Street",
+      "phone": "+1 (555) 777-8888",
+      "logo": "logo5.png",
+      "lat": 40.7128,
+      "lng": -74.0060,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user9",
+        "email": "user9@example.com",
+        "password": "password9",
+        "username": "user9",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user10",
+        "email": "user10@example.com",
+        "password": "password10",
+        "username": "user10",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school6",
+      "name": "School F",
+      "email": "schoolF@example.com",
+      "address": "303 Oak Street",
+      "phone": "+1 (555) 222-3333",
+      "logo": "logo6.png",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user11",
+        "email": "user11@example.com",
+        "password": "password11",
+        "username": "user11",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user12",
+        "email": "user12@example.com",
+        "password": "password12",
+        "username": "user12",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school7",
+      "name": "School G",
+      "email": "schoolG@example.com",
+      "address": "404 Pine Street",
+      "phone": "+1 (555) 999-1111",
+      "logo": "logo7.png",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user13",
+        "email": "user13@example.com",
+        "password": "password13",
+        "username": "user13",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user14",
+        "email": "user14@example.com",
+        "password": "password14",
+        "username": "user14",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    },
+    {
+      "id": "school8",
+      "name": "School H",
+      "email": "schoolH@example.com",
+      "address": "505 Maple Street",
+      "phone": "+1 (555) 123-0000",
+      "logo": "logo8.png",
+      "lat": 40.7128,
+      "lng": -74.0060,
+      "active": true,
+      "createdAt": "2023-09-26T13:35:26.575Z",
+      "createdBy": {
+        "id": "user15",
+        "email": "user15@example.com",
+        "password": "password15",
+        "username": "user15",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedBy": {
+        "id": "user16",
+        "email": "user16@example.com",
+        "password": "password16",
+        "username": "user16",
+        "createdAt": "2023-09-26T13:35:26.575Z",
+        "lastUpdatePassword": "2023-09-26T13:35:26.575Z",
+        "blockDate": "2023-09-26T13:35:26.575Z"
+      },
+      "updatedAt": "2023-09-26T13:35:26.575Z"
+    }
+]
+  
